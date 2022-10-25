@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/nullg0re/swaggerui/main/dom.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/nullg0re/swaggerui/main/test.yaml",
+            "name": "test"
+        }
+    ]
+}
