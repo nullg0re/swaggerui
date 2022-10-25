@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/nullg0re/swaggerui/main/dom.yaml",
+    "url": "https://raw.githubusercontent.com/nullg0re/swaggerui/main/test.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/nullg0re/swaggerui/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/nullg0re/swaggerui/main/dom.yaml",
             "name": "test"
         }
     ]
