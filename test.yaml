@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
   version: "0.0.1"
-  title: Please navigate to synack.com for password reset
-  description: Please navigate to synack.com for password reset
+  title: nullg0re
+  description: Text Injection Possible
 paths:
   /:
     get:
